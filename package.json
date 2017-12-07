@@ -1,0 +1,16 @@
+{
+  "name": "豆瓣电影爬虫",
+  "version": "0.1.0",
+  "description": "使用node.js API,抓取豆瓣电影页面",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "刘栅",
+  "license": "ISC",
+}
